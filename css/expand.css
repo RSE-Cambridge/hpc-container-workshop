@@ -30,61 +30,61 @@ section {
   padding: 0 20px;
 }
 #toggle:checked ~ #expand {
-  height: 250px;
+  height: 500px;
 }
 #toggle:checked ~ label::before {
   content: "-";
 }
 #toggle1:checked ~ #expand {
-  height: 250px;
+  height: 500px;
 }
 #toggle1:checked ~ label::before {
   content: "-";
 }
 #toggle2:checked ~ #expand {
-  height: 250px;
+  height: 500px;
 }
 #toggle2:checked ~ label::before {
   content: "-";
 }
 #toggle3:checked ~ #expand {
-  height: 250px;
+  height: 500px;
 }
 #toggle3:checked ~ label::before {
   content: "-";
 }
 #toggle4:checked ~ #expand {
-  height: 250px;
+  height: 500px;
 }
 #toggle4:checked ~ label::before {
   content: "-";
 }
 #toggle5:checked ~ #expand {
-  height: 250px;
+  height: 500px;
 }
 #toggle5:checked ~ label::before {
   content: "-";
 }
 #toggle6:checked ~ #expand {
-  height: 250px;
+  height: 500px;
 }
 #toggle6:checked ~ label::before {
   content: "-";
 }
 #toggle7:checked ~ #expand {
-  height: 250px;
+  height: 500px;
 }
 #toggle7:checked ~ label::before {
   content: "-";
 }
 #toggle8:checked ~ #expand {
-  height: 250px;
+  height: 500px;
 }
 #toggle8:checked ~ label::before {
   content: "-";
 }
 #toggle9:checked ~ #expand {
-  height: 250px;
+  height: 500px;
 }
 #toggle9:checked ~ label::before {
   content: "-";

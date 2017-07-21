@@ -160,7 +160,12 @@ a:hover, a:focus, a:active, a:visited {
     transform: translateY(-10px);
 }
 .speaker-img {
-	max-width: 40%;
+    max-width: 40%;
+    border: 4px solid #efefef;
+    border-radius: 50%;
+}
+.course-img {
+    max-width: 15%;
     border: 4px solid #efefef;
     border-radius: 50%;
 }
